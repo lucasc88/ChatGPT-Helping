@@ -19,7 +19,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"nome\": \"Paciente 1\",\n    \"email\": \"paciente1@email.com\",\n    \"cpf\": \"111.111.111-11\",\n    \"telefone\": \"61999999999\",\n    \"endereco\": {\n        \"logradouro\": \"Rua\",\n        \"bairro\": \"Bairro\",\n        \"cep\": \"12345678\",\n        \"cidade\": \"Cidade\",\n        \"uf\": \"UF\",\n        \"numero\": \"1\",\n        \"complemeto\": \"Complemento\"\n    }\n}"
+					"raw": "{\n    \"nome\": \"Paciente 1\",\n    \"email\": \"paciente1@email.com\",\n    \"cpf\": \"111.111.111-11\",\n    \"telefone\": \"61999999999\",\n    \"endereco\": {\n        \"logradouro\": \"Rua\",\n        \"bairro\": \"Bairro\",\n        \"cep\": \"12345678\",\n        \"cidade\": \"Cidade\",\n        \"uf\": \"UF\",\n        \"numero\": \"1\",\n        \"complemento\": \"Complemento\"\n    }\n}"
 				},
 				"url": "http://localhost:8080/pacientes"
 			},
